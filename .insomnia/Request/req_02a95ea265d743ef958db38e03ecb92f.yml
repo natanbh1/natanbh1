@@ -1,0 +1,46 @@
+_id: req_02a95ea265d743ef958db38e03ecb92f
+type: Request
+parentId: fld_014318bf4def4145ba792ea352f803ba
+modified: 1662582889723
+created: 1662261990720
+url: http://localhost:8000/oauth/token
+name: Token
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_3b989bccf5ed4007aa783545f74aaaa0
+      name: username
+      value: cemigsim
+      description: ""
+    - id: pair_4d5968fde97f4e5fbd07044b41806c76
+      name: password
+      value: password
+      description: ""
+    - id: pair_fb93e1f639df4904953af5fb91a74413
+      name: grant_type
+      value: password
+      description: ""
+    - id: pair_a62980bcc6bb4bc087564d3837fc3619
+      name: client_id
+      value: "2"
+      description: ""
+    - id: pair_bd6bf3a6ee2943c9b728bfe7bf8fbb6e
+      name: client_secret
+      value: XO9HAAlrlUDT23MVCanayDn5QFiqttfzyzMcwD3o
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_084feebf693f4417b21fa23ac5a1c4b9
+authentication: {}
+metaSortKey: -1662261990720
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

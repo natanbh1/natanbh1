@@ -1,0 +1,30 @@
+_id: req_431adfba14384298b363cb682ee9e95e
+type: Request
+parentId: fld_014318bf4def4145ba792ea352f803ba
+modified: 1662565258381
+created: 1662256046276
+url: http://localhost:8000/api/condominios/codigo/1
+name: getCodigo
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_2f8e3694dff04e23be7c4e22f50f7db6
+    name: Accept
+    value: application/json
+    description: ""
+  - id: pair_2b79cb8c025045ef9cbd9d1cda050d96
+    name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIyIiwianRpIjoiM2YwMDYzZjNlNWZhYzBkZTJjMDdiM2FkYWY5MWFkMzg1YTdhNjAxMGQyNzg0OGE4YjU1Y2M5N2U1N2QyY2I4YWQ2Y2QxNWY0YzlmOGQwNTMiLCJpYXQiOjE2NjI1NjUxMzEuNDYyODcsIm5iZiI6MTY2MjU2NTEzMS40NjI4NzUsImV4cCI6MTY5NDEwMTEzMS4yODcyMjIsInN1YiI6IjUiLCJzY29wZXMiOltdfQ.EwbbGvYfu3vssvlYzZjizDBGT83rFZmHL-uTejo2BCjNgXafngWPBDMYwrktyYS60WAZqWjMvhWjOiXn9asNOxVEVwgFEuEQM8UreEaDOzot2Q7oLgUmY7agHH_sPjY-tttS0DdhjTz3C4Yf_JodpVCAwcfopoytgqR7HdfdpGAMnPBOb7XFB-qTc291tUyzzjHKEJpNP0s9UcRjrBDcP8GENNtgGZFv_f2OxKHNQ7BcLb-3ZHLYZ3spV-eDJaADThBtAQTNfrx2lz8l1Rhny4TjrLXdPN5e6TW5XO35IZuuMWKVAeOYwznEJqcgPo6x_5Kua2qg9-nBndKOPoJDCr360NeYgp4CqXsMrhPu20EGjDKeVZeUdCYD272_csilPHHA4ZrxlFjp78CSCM01wBjkT4tPnLRIt_q21TrdPcQd-yCIJXYKKZ4fe_6kgu86LPyMY80Dm_2FnxzUw6z1G8RvkUv6KaeKaCYMZ-nJhASY7DJmL_JqR-DJixQBD2UlOl_b0I1jSwe0QQvQ7pop98xhEBIVMRWBPOYVhe42am-YfeelXrguJttg0otnEP14pD8zTYYQrfMDC7jVXuv8VwC0i4_v1H7OsMa_u1oUw00G3eqqpKFRrHWSAw3XNkctuBbyG1KwXIkecmKl6wEAmLjPNrj05C3Bh6YeQeGj5Fs
+    description: ""
+authentication: {}
+metaSortKey: -1662261990832.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

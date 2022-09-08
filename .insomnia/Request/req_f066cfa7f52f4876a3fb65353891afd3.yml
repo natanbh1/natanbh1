@@ -1,0 +1,34 @@
+_id: req_f066cfa7f52f4876a3fb65353891afd3
+type: Request
+parentId: fld_014318bf4def4145ba792ea352f803ba
+modified: 1662580928169
+created: 1662337200811
+url: http://localhost:8000/oauth/token
+name: Token2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "grant_type": "password",
+        "client_id": 2,
+        "client_secret": "XO9HAAlrlUDT23MVCanayDn5QFiqttfzyzMcwD3o",
+        "password": "password",
+        "username": "cemigsim",
+        "scope": ""
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_084feebf693f4417b21fa23ac5a1c4b9
+authentication: {}
+metaSortKey: -1662261990670
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
